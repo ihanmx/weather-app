@@ -1,4 +1,4 @@
-# ☀️ Weather App - React Learning Project
+# ☀️ Weather App - React Project
 
 [![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://reactjs.org/)
 [![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-2.2.8-purple.svg)](https://redux-toolkit.js.org/)
