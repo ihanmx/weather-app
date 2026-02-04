@@ -9,7 +9,7 @@
 
 ## 🌐 Live Demo
 
-🔗 **Live Website:** _[Add your deployed link here]_
+🔗 **Live Website:** https://weather-app-byhanan.netlify.app/
 
 ## 🎯 About
 
